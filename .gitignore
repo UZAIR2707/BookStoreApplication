@@ -1,0 +1,16 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# Visual Studio cache
+*.cache
+
+# Windows files
+desktop.ini
+Thumbs.db
